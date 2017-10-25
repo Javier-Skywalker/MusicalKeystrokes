@@ -1,9 +1,8 @@
 # MusicalKeystrokes
-This will be used for our DIY project.
 
 
 
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -31,7 +30,7 @@ Unfeeling so rapturous discovery he exquisite. Reasonably so middletons or impre
 <div id="textboxdiv">
 	<div id="textboxcaption"> Click the box and begin typing the paragraph on the left.</div>
 	
-	<textarea rows="10" cols="26" id="textbox"></textarea>
+	<textarea rows="100" cols="260" id="textbox"></textarea>
 	
 </div>
 </body>
